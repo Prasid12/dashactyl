@@ -27,7 +27,7 @@
           }
         },
          "bot": {
-           "token": "OTEyMjA3NjgyNjQ2MjEyNjQ4.YZslmw.b6lqfJqjQtfkVvmMhZCAVzium6E",
+           "token": "OTEyNjIwMzA4NDA4NzE3MzMy.YZyl5Q.3Gt3kgZ5xwbYax7hY11Aq-Dq0cQ",
              
            "joinguild": {
              "_comment": "The Discord bot must be in these servers and have invite permissions.",
@@ -69,8 +69,8 @@
         },
         "oauth2": {
           "_comment": "Go to https://discord.dev/ and create an application to set these up.",
-          "id": "912207682646212648",
-          "secret": "FnxYlF2fvSh7knGamIyuzLN8mVLeitev",
+          "id": "912620308408717332",
+          "secret": "g5Td7w-NSBWkw-mEOVcQo1pqwTREmZl0",
           "link": "https://dash.rocknodes.xyz",
           "callbackpath": "/callback",
           "prompt": true,
